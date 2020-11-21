@@ -1,0 +1,14 @@
+setup.py
+autos_ml/__init__.py
+autos_ml/auto_ml.py
+autos_ml/items.py
+autos_ml/middlewares.py
+autos_ml/pipelines.py
+autos_ml/settings.py
+autos_ml/spiders/__init__.py
+autos_ml/spiders/auto_ml.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
